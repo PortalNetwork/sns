@@ -7,7 +7,7 @@ BNS – or blockchain name system – is the protocol on the internet that turns
 
 ## 📝 Description
 
-SNS is the Storm Name Service, a distributed, open, and extensible naming system based on the Storm blockchain.
+SNS is the Storm Name Service, a distributed, open, and extensible naming system based on the Ethereum blockchain.
 
 ## 📚 Documents
 
